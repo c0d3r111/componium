@@ -1,5 +1,5 @@
   /**
-  * Componium.js a work-in-progress react.js alternative
+  * Componium.js a work-in-progress
   *
   * Store function
   * @key String = Component reference name
